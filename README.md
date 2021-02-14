@@ -30,4 +30,4 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://http://jairjunior27.github.io/maratonaDiscover).
+Você pode visualizar o layout do projeto através [desse link](https://http://jairjunior27.github.io/maratonaDiscover/).
